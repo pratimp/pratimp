@@ -5,7 +5,7 @@ I have Software Quality Assurance (QA) and testing experience with a wide variet
 
 Skills: POSTMAN / NEWMAN /JMETER/ JS / HTML / CSS
 
-- 🔭 I’m currently working on Wundermanthomson Dhaka 
+- 🔭 I’m currently working on Wunderman Thompson Dhaka 
 - 🌱 I’m currently learning JAVA 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about SQA 
