@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Partha
 #### SQA Engineer
 
-I have Software Quality Assurance (QA) experience with a wide variety of projects and environments performing White/Black box, Performance, Load and Stress testing. I have evaluated Testing Automation tools and performed creation and maintenance of Automated Test Scripts for functional, regression as well as performance testing.
+I have Software Quality Assurance (SQA) experience with a wide variety of projects and environments performing White/Black box, Performance, Load and Stress testing. I have evaluated Testing Automation tools and performed creation and maintenance of Automated Test Scripts for functional, regression as well as performance testing.
 
 Skills: POSTMAN / NEWMAN /JMETER/ JS / HTML / CSS
 
